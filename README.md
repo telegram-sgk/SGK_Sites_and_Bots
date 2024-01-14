@@ -216,18 +216,10 @@
 
 <br>
 
+### ✨搜狗社工库✨
 
-<!--
+同名查询、身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车 手机查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、同密码、外卖地址、家庭地址等等。
 
-## ✨其他工具✨
-
-### 手机短信轰炸
-
-免费使用，每日签到一次就可以获得5积分，可轰炸一个手机号5分钟。
-
-地址链接: [@云闹钟轰炸鸡](https://t.me/cloudAlarmClockBot)
-
-<br>
--->
+社工地址: [@SOUGOUSGK_BOT](https://t.me/SOUGOUSGK_BOT?start=MTE4MDc2MDA2Mg==)；
 
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
