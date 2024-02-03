@@ -223,3 +223,7 @@
 社工地址: [@SOUGOUSGK_BOT](https://t.me/AJL01_bot?start=qstxIqcQ3R)；
 
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
+
+### ✨新世界社工库✨
+
+社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
