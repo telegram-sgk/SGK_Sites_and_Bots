@@ -227,3 +227,9 @@
 ### ✨新世界社工库✨
 
 社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+
+
+### ✨Toronto社工库✨
+
+
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.4spaces.org/4842.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
