@@ -222,7 +222,6 @@
 
 社工地址: [@SOUGOUSGK_BOT](https://t.me/AJL01_bot?start=qstxIqcQ3R)；
 
-文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
 
 ### ✨新世界社工库✨
 
@@ -240,3 +239,13 @@
 号称拥有完整上海10亿，银联6.3亿，学习通1.2亿，地区全库，融合二要素11亿，抖音渗透数据，4399渗透数据。
 
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://www.4spaces.org/4890.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
+
+
+### ✨知世库✨
+
+支持QQ号查询、身份证号查询、猎魔查询、手机号查询、微博查询，使用时直接将对应查询内容发送过去即可。
+
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Zslibot</a>。
+
+
+文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
