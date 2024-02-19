@@ -256,7 +256,8 @@
 使用时直接发送手机号、QQ等信息查询即可。
 
 
-社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BOXsgkbot</a>。
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BOXsgkbot</a>。使用详情：<a href="https://www.4spaces.org/4942.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
+
 
 
 
