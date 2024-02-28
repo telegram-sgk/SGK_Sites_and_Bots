@@ -93,7 +93,7 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@AISGK_](https://t.me/AJL01_bot?start=qstxIqcQ3R)
+地址链接：[@aishegongkubot](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 [Botbot](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 
