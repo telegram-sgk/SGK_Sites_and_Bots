@@ -259,6 +259,32 @@
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BOXsgkbot</a>。使用详情：<a href="https://www.4spaces.org/4942.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
 
 
+### ✨社工库 NO47: FreeCAA✨
+
+
+比较尿性的一个社工库，主要是身份信息查询，具体命令：
+
+```
+/2ys 姓名 身份证 [二要素验证]
+/3ys 姓名 身份证 手机号 [三要素验证]
+/hbsb 姓名 身份证 [湖北无头社保]
+/hb 姓名 身份证 [湖北常用]
+/hbcy 身份证 [河北常用号]
+/lnyh 姓名 身份证 [辽宁银行]
+/lncy 身份证 [辽宁常用]
+/lnhy 身份证 [辽宁婚姻]
+/sxyh 身份证 [陕西银行]
+/zjcy 姓名 身份证 [浙江常用号]
+/gscy 身份证 [甘肃常用号]
+/jljsz 身份证 [吉林驾驶证]
+/qb QQ号 查询Q绑
+```
+
+随便找个QQ号测试下，结果有点尴尬~
+
+<img src="https://img.yomige.org/file/8c98f66ac5eb0a91f4a9f.jpg">
+
+社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@FreeCAA_bot</a>。
 
 
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
