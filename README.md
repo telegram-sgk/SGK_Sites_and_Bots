@@ -11,7 +11,7 @@
 
 🔍LosePrivacy 收录了全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了
 
-地址：[Loseprivacy](https://loseprivacy.net?lp=MjU0ODg1)
+地址：[Loseprivacy](https://idouyin.io/2i)
 （进不去的关掉vpn再进）
 
 网站按关键词收费，1元一个关键词，购买后可对该关键词不限次数查询。注册账号后会获得3元的点券，每日签到可以获得1.5元消费券，可以用这种方式免费查询。<br>
