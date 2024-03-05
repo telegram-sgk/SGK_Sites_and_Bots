@@ -259,7 +259,7 @@
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BOXsgkbot</a>。使用详情：<a href="https://www.4spaces.org/4942.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
 
 
-### ✨社工库 NO47: FreeCAA✨
+### ✨FreeCAA社工库✨
 
 
 比较尿性的一个社工库，主要是身份信息查询，具体命令：
@@ -285,6 +285,15 @@
 <img src="https://img.yomige.org/file/8c98f66ac5eb0a91f4a9f.jpg">
 
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@FreeCAA_bot</a>。
+
+### ✨度娘社工库机器人✨
+
+
+好垃圾的一个社工库，太烂了，什么都查不出来，果然带百度的都是垃圾~
+
+社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@baidusell_bot</a>。
+
+
 
 
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
