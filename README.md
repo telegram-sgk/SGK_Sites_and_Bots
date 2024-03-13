@@ -216,32 +216,32 @@
 
 <br>
 
-### ✨搜狗社工库✨
+### 搜狗社工库
 
 同名查询、身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车 手机查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、同密码、外卖地址、家庭地址等等。
 
 社工地址: [@SOUGOUSGK_BOT](https://t.me/AJL01_bot?start=qstxIqcQ3R)；
 
 
-### ✨新世界社工库✨
+### 新世界社工库
 
 社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 
-### ✨Toronto社工库✨
+### Toronto社工库
 
 
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.4spaces.org/4842.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 
-### ✨Crime社工库✨
+### Crime社工库
 
 号称拥有完整上海10亿，银联6.3亿，学习通1.2亿，地区全库，融合二要素11亿，抖音渗透数据，4399渗透数据。
 
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://www.4spaces.org/4890.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
 
 
-### ✨知世库✨
+### 知世库
 
 支持QQ号查询、身份证号查询、猎魔查询、手机号查询、微博查询，使用时直接将对应查询内容发送过去即可。
 
@@ -249,7 +249,7 @@
 
 
 
-### ✨黑盒-𝑩𝒍𝒂𝒄𝒌 𝑩𝑶𝑿 -社工库✨
+### 黑盒-𝑩𝒍𝒂𝒄𝒌 𝑩𝑶𝑿 -社工库
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分，本机器人支持：快递,开房,车主,机主,户籍,身份证,手机,邮箱,账号,密码等社工库查询、QQ查绑/贴吧查绑/英雄联盟查QQ手机姓名/微博查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、姓名查身份证号码（猎魔）等。
 
@@ -259,7 +259,7 @@
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BOXsgkbot</a>。使用详情：<a href="https://www.4spaces.org/4942.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
 
 
-### ✨FreeCAA社工库✨
+### FreeCAA社工库
 
 
 比较尿性的一个社工库，主要是身份信息查询，具体命令：
@@ -286,7 +286,7 @@
 
 社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@FreeCAA_bot</a>。
 
-### ✨度娘社工库机器人✨
+### 度娘社工库机器人
 
 
 好垃圾的一个社工库，太烂了，什么都查不出来，果然带百度的都是垃圾~
@@ -294,11 +294,24 @@
 社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@baidusell_bot</a>。
 
 
-### ✨海燕系统-车辆查询系统✨
+### 海燕系统-车辆查询系统
 
 车牌号查询社工库，直接发送车牌号即可。
 
 社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@HYXT_bot</a>。
+
+
+### 滴滴社工库
+
+此社工库已跑路，目前这个账号应该又被人接手了，可根据手机号、身份证号、QQ 号、微博主页地址进行查询。查询出的信息非常少，关键它还好意思收费，免费的都比它这个查出的信息全，烂货一个，大家别用~
+
+<img src="https://img.yomige.org/file/3ae007a9c351bab45039b.jpg">
+
+
+<img src="https://img.yomige.org/file/dcff33959d1fca592304f.jpg">
+
+
+社工库地址：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DiDiSGK_Bot</a>。 
 
 
 
