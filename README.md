@@ -303,7 +303,7 @@
 
 ### 滴滴社工库
 
-此社工库已跑路，目前这个账号应该又被人接手了，可根据手机号、身份证号、QQ 号、微博主页地址进行查询。查询出的信息非常少，关键它还好意思收费，免费的都比它这个查出的信息全，烂货一个，大家别用~
+此社工库已跑路，目前这个账号应该又被人接手了，可根据手机号、身份证号、QQ 号、微博主页地址进行查询。查询出的信息非常少，关键它还好意思收费，免费的都比它这个查出的信息全~
 
 <img src="https://img.yomige.org/file/3ae007a9c351bab45039b.jpg">
 
@@ -311,8 +311,14 @@
 <img src="https://img.yomige.org/file/dcff33959d1fca592304f.jpg">
 
 
-社工库地址：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DiDiSGK_Bot</a>。 
+社工库账号：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DiDiSGK_Bot</a>。 
 
+### X-ray社工库
+
+支持发送【姓名、电话或身份证】进行查询，返回的结果有学习通和支付宝，试了下，信息少但还算准确，支持签到获取积分，解锁结果需要使用积分。
+
+
+社工库账号：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Xraysgk_bot</a>。 
 
 
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
