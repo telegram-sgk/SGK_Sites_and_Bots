@@ -321,4 +321,16 @@
 社工库账号：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Xraysgk_bot</a>。 
 
 
+### Botnet免费社工机器人
+
+一个免费社工库，返回的数据质量还不错，数据包括QQ绑定手机、人工三要素、新浪微博、IMEI手机序列码、微信绑定等数据。使用时需要积分，不过可以通过新人首次加入、每日签到、邀请等方式获取。
+
+使用方法：发送身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号即可查询任何你想要查询的信息。
+
+<img src="https://img.yomige.org/file/b859e8db736df7fe18101.jpg">
+
+社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@SGK_0001_bot</a>。 
+
+
+
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
