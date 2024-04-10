@@ -332,5 +332,11 @@
 社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@SGK_0001_bot</a>。 
 
 
+### ingeek社工库-免费社工库平台
+
+可以查询QQ绑、银行卡、微博绑定、身份证等信息，银行卡信息真实性未校验，需要的自己试一下吧：
+
+社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@ingeeksgkbot</a>。 
+
 
 文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
