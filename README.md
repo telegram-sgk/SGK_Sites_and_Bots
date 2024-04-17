@@ -339,4 +339,14 @@
 社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@ingeeksgkbot</a>。 
 
 
+### Hope机器人
+
+猎魔/机主/全国法人/地址猎魔/综合数据机器人，查询免费，解锁需要积分，数据还不错，可以结合前面分享的其他机器人一起使用：
+
+账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">Hope社工库机器人</a>。 
+
+
+
+
+
 文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
