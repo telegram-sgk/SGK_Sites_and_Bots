@@ -339,4 +339,4 @@
 社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@ingeeksgkbot</a>。 
 
 
-文章来源： [https://www.4spaces.org/1240.html](https://www.4spaces.org/1240.html)。
+文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
