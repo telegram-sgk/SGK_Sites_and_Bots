@@ -346,6 +346,9 @@
 账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">Hope社工库机器人</a>。 
 
 
+### X-ray社工库
+
+新出社工库，数据质量挺高，可查微信，账号地址：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Zonesgk_bot</a>。 
 
 
 
