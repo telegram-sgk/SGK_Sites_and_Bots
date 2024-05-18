@@ -350,6 +350,13 @@
 
 新出社工库，数据质量挺高，可查微信，账号地址：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Zonesgk_bot</a>。 
 
+### 新中央社工库
+
+号称可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/LOL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、就职单位、银行开户、通讯录、匹配查完整手机号, 身份证号等联系方式相关信息。
+
+账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@zysgkbot</a>。 
+
+
 
 
 文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
