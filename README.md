@@ -7,18 +7,21 @@
 
 ## 一、社工库网站
 
-### 1. LosePrivacy
+### 1.社工库-在线社工库聚合网站
 
 
-**2024年5月25日 更新 此网站有网友提醒充值后发现根本查不出什么数据，站长存在跑路风险，谨慎充值，需要得可以尝试其他工具**
+地址： [https://www.shegongku.top/](https://www.shegongku.top/)，一直更新全网可用社工库。
 
-推荐： [https://www.shegongku.top/](https://www.shegongku.top/)
 
+### 2. LosePrivacy
+
+
+**2024年5月25日 更新 此网站有网友提醒LosePrivacy充值后发现根本查不出什么数据，站长存在跑路风险，谨慎充值，需要得可以尝试其他工具**
 
 🔍LosePrivacy 收录了全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了
 
-地址：[Loseprivacy](https://idouyin.io/2i)
-（进不去的关掉vpn再进）
+地址：[Loseprivacy](https://idouyin.io/2i)（进不去的关掉vpn再进）
+
 
 网站按关键词收费，1元一个关键词，购买后可对该关键词不限次数查询。注册账号后会获得3元的点券，每日签到可以获得1.5元消费券，可以用这种方式免费查询。<br>
 
