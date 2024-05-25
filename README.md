@@ -9,6 +9,12 @@
 
 ### 1. LosePrivacy
 
+
+**2024年5月25日 更新 此网站有网友提醒充值后发现根本查不出什么数据，站长存在跑路风险，谨慎充值，需要得可以尝试其他工具**
+
+推荐： [https://www.shegongku.top/](https://www.shegongku.top/)
+
+
 🔍LosePrivacy 收录了全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了
 
 地址：[Loseprivacy](https://idouyin.io/2i)
