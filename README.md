@@ -47,7 +47,14 @@
 
 地址: [@AJL_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
-备注：不强制要求推广后才能使用，每日签到可获取积分。
+备注：不强制要求推广后才能使用，每日签到可获取积分，详细介绍参考：[2024最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
+
+<br>
+
+### 免费社工库机器人
+
+一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，使用参考：[免费社工库机器人](https://www.shegongku.top/58.html)。
+
 
 <br>
 
