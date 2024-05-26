@@ -366,6 +366,14 @@
 账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@zysgkbot</a>。 
 
 
+### 订单机器人
+
+在对话窗口发送查询条件，可查询到：淘宝订单、京东订单、拼多多订单、有赞订单、身份户籍、开房记录、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/OL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、通讯录等。
+
+虽然列出的很长，但发送相同的查询条件返回的信息相对之前推荐过的社工库少的可怜，不同人的情况可能不同，自己可以试试：
+
+账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DD880_BOT</a>。 
+
 
 
 文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
