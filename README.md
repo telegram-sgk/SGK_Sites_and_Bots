@@ -372,7 +372,7 @@
 
 虽然列出的很长，但发送相同的查询条件返回的信息相对之前推荐过的社工库少的可怜，不同人的情况可能不同，自己可以试试：
 
-账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DD880_BOT</a>。 
+账号地址： <a href="https://www.shegongku.top/56.html" target="_blank">@DD880_BOT</a>。 
 
 
 
