@@ -392,5 +392,9 @@
 
 社工库数据包含机主数据，猎魔数据，快递地址数据等，查询简单，直接发送相关查询条件即可。使用教程参考：[275社工库：隐私数据查询，新上山东2023新二要素](https://www.shegongku.top/59.html)。
 
+### 情报局社工库
+
+一个Telegram群组，直接在群里发送查询命令，群组会自动返回对应信息给你，这是一个公共群组，注意自己隐私，详情介绍：[情报局社工库: Telegram社工群组机器人](https://www.shegongku.top/60.html)。
+
 
 文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
