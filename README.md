@@ -397,4 +397,8 @@
 一个Telegram群组，直接在群里发送查询命令，群组会自动返回对应信息给你，这是一个公共群组，注意自己隐私，详情介绍：[情报局社工库: Telegram社工群组机器人](https://www.shegongku.top/60.html)。
 
 
+### 哈希社工库
+
+支持人脸识别、手机号查询、短信轰炸，详情介绍：[社工库分享：哈希社工库，人脸识别、手机号查询、短信轰炸](https://www.shegongku.top/61.html)。
+
 文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
