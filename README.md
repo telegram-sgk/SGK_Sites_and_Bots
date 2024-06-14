@@ -5,56 +5,30 @@
 **提醒：请勿用于违法用途，不要查询他人隐私信息，保护好个人隐私！！**
 
 
-## 一、在线社工库网站
-
-### 1.社工库-在线社工库聚合网站
-
-全网最全的社工库分享站点，不断更新在线社工库和Telegram社工库机器人信息，并对社工库的使用做出说明。
-
-地址： [https://www.shegongku.top/](https://www.shegongku.top/)。
-
-
-### 2. LosePrivacy
-
-
-**2024年5月25日更新 LosePrivacy这个网站有网友提醒充值后发现根本查不出什么数据，站长存在跑路风险，谨慎充值，需要得可以尝试其他工具**
-
-
-网站首页展示收录了订单与快递数据、陕西西安一码通数据、推特数据、随申码、草榴社区、拼多多数据、身份证图片信息、公积金数据、QQ密码、微信绑卡、英雄联盟LOL等数据，但是查询时得到数据远没有其他社工库返回的数据多。
-
-地址：[Loseprivacy](https://idouyin.io/2i)（进不去的关掉vpn再进）
-
-
-### 3.明网社工库
-
-上线时间很久了，但是数据依旧很烂，摆烂社工库，充值后可能会查不出什么东西，可以做最后的尝试吧，试试其他免费社工库：
-
-地址： [明网社工库](https://txcdns.online/)。
-
-
-## 二、Telegram 社工库机器人
+## elegram 社工库机器人
 
 **注意：以下社工库机器人均需要VPN和Telegram配合下才能使用，否则用不了**
 
 
-需要VPN代理才能访问，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[糊涂云](https://idouyin.io/34)]。
-
+需要VPN代理才能访问，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 快连 账号之后进行访问，推荐：[[快连](https://bitbucket.org/letsgo666/letsgogo/src/main)]。
+安装后打开填写我的ID：215210134 你能多得3天会员！
 
 <br>
 
-### 暗精灵社工库
+### 屁屁侦探社工库
 
 🔍可查询：支持猎魔模糊查询
 
-地址: [@AJL_SGK](https://idouyin.io/41)
+地址: [@ppsgk_bot](https://t.me/ppsgk_bot)
 
-备注：不强制要求推广后才能使用，每日签到可获取积分，详细介绍参考：[2024最新Telegram社工库分享：暗精灵](https://www.shegongku.top/1.html)
+备注：不强制要求推广后才能使用，每日签到可获取积分，详细介绍参考：[2024最新Telegram社工库分享：屁屁侦探社工库](https://telegra.ph/%E5%B1%81%E5%B1%81%E4%BE%A6%E6%8E%A2%E7%A4%BE%E5%B7%A5%E5%BA%93%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-06-14)
+<img src="https://telegra.ph/file/edb42b4301ba84140d99a.png" />
 
 <br>
 
 ### 免费社工库机器人
 
-一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，使用参考：[免费社工库机器人](https://www.shegongku.top/58.html)。
+一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，使用参考：[免费社工库机器人](https://telegra.ph/%E5%B1%81%E5%B1%81%E4%BE%A6%E6%8E%A2%E7%A4%BE%E5%B7%A5%E5%BA%93%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-06-14)。
 
 
 <br>
@@ -64,7 +38,7 @@
 
 🔍可查询： **快递地址**、手机机主、身份证信息、QQ/微博/LOL绑定、邮箱查找、同名查找、模糊找人
 
-地址: [@Joker_SGK](https://idouyin.io/41)
+地址: [@Joker_SGK](https://t.me/ppsgk_bot)
 
 备注：**无需签到，每天默认送两次免费查询机会**，超级综合检索系统，适用于模糊找人
 
@@ -75,7 +49,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、微博绑定、**学习通数据、微信id数据、支付宝模糊绑定**、银行卡、同邮服、群关系、模糊找人
 
-地址: [@HePing_SGK](https://idouyin.io/41)
+地址: [@HePing_SGK](https://t.me/ppsgk_bot)
 
 备注：每日签到获取2积分，每日两次免费查询机会。模糊找人功能。
 
@@ -86,7 +60,7 @@
 
 🔍可查询：身份户籍、开房记录、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式。
 
-地址: [@Space_SGK](https://idouyin.io/41)
+地址: [@Space_SGK](https://t.me/ppsgk_bot)
 
 备注：每日签到可获取3次免费查询机会
 
@@ -97,7 +71,7 @@
 
 🔍可查询：泄漏的**学习通**学生信息，身份证信息，QQ绑定，微博绑定，快递，运营商、京东/淘宝快递、车牌车主、个人常用密码、Q群关系等数据。
 
-地址: [@TMD_sgk2023](https://idouyin.io/41)
+地址: [@TMD_sgk2023](https://t.me/ppsgk_bot)
 
 备注：**无积分限制，只需间隔几分钟查询一次**。相当于无限查询次数，但缺点是未推广每次查询只能看部分信息。
 
@@ -110,8 +84,8 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[@aishegongkubot](https://idouyin.io/41)
-[Botbot](https://idouyin.io/41)
+地址链接：[@aishegongkubot](https://t.me/ppsgk_bot)
+[Botbot](https://t.me/ppsgk_bot)
 
 
 <br>
@@ -122,7 +96,7 @@
 
 🔍可查询：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、邮箱、微博绑定、**学习通数据、WeChatID、支付宝模糊绑定**、银行卡
 
-地址: [@Ahu_SGK](https://idouyin.io/41)
+地址: [@Ahu_SGK](https://t.me/ppsgk_bot)
 
 备注：无需签到，每天自动获得3次免费查询机会
 
@@ -136,7 +110,7 @@
 🔍可查询：同名查询、身份
 户籍、机主信息、快递地址、车牌车主、账号密码、QQ／贴吧／微博／LOL.／共享单车手机查绑、要素验证、同名联系方式、家庭地址等等
 
-地址: [@Iner_SGK](https://idouyin.io/41)
+地址: [@Iner_SGK](https://t.me/ppsgk_bot)
 
 备注：每日签到可获取5积分
 
@@ -147,7 +121,7 @@
 
 🔍可查询：TG账号注册时间，账号标签，用户名，加入的群聊名字及链接
 
-地址: [@STScan_Bot](https://idouyin.io/41)
+地址: [@STScan_Bot](https://t.me/ppsgk_bot)
 
 备注：新用户限时赠送10积分， 一次查询完整结果消耗积分，查询失败不消耗积分
 
@@ -160,7 +134,7 @@
 
 高清正反面，身份证二要素核验，手机号二三要素核验，商银行卡二三四要素核验，公司法人四要素核验，失信人核验，图片变清晰
 
-地址链接：[@SGK007_Bot](https://idouyin.io/41)
+地址链接：[@SGK007_Bot](https://t.me/ppsgk_bot)
 
 备注：验证查到的信息是否真实有效，每日签到赠送2积分
 
@@ -170,7 +144,7 @@
 
 🔍可查询 **群组关系**、身份证、手机号、邮箱、家庭住址、外卖信息、QQ绑定、微博绑定、户籍信息、同邮服等
 
-地址: [@SGK_ABOT](https://idouyin.io/41)
+地址: [@SGK_ABOT](https://t.me/ppsgk_bot)
 
 **注册就送50积分，每日签到可获取5积分**，查询成功消耗1积分，可开高级功能短信轰炸、模糊查找。
 
@@ -179,7 +153,7 @@
 
 ### 狗狗免费社工机器人
 
-地址: [@DOG_SGK](https://idouyin.io/41)
+地址: [@DOG_SGK](https://t.me/ppsgk_bot)
 
 备注：每日签到可获取积分，**二要素验证功能，验证身份证号和姓名是否真实对应**
 
@@ -190,7 +164,7 @@
 
 🔍可查询：QQ/微博绑定、手机机主、快递地址等等
 
-地址: [@DATA007_SGK](https://idouyin.io/41)
+地址: [@DATA007_SGK](https://t.me/ppsgk_bot)
 
 备注：每日签到获取积分。
 
@@ -199,7 +173,7 @@
 
 ### 平安社工库
 
-地址: [@Pingan_SGK](https://idouyin.io/41)
+地址: [@Pingan_SGK](https://t.me/ppsgk_bot)
 
 备注：无需推广,无需积分。
 
@@ -215,9 +189,9 @@
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号|公司或店铺名称
 
-地址链接：[@AISGK_Bot](https://idouyin.io/41)
+地址链接：[@AISGK_Bot](https://t.me/ppsgk_bot)
 
-***爱社工库官方充值350元起步，少量查询不划算，可联系人工付费解码：[@Crush54](https://idouyin.io/41)***（仅限AISGK解码）
+***爱社工库官方充值350元起步，少量查询不划算，可联系人工付费解码：[@Crush54](https://t.me/ppsgk_bot)***（仅限AISGK解码）
 
 
 <br>
@@ -227,7 +201,7 @@
 
 🔍星盾社工库最新45亿电商数据：主要是用手机号或身份证号查 **快递信息**，将查出该手机号用户相关信息，包括但不限于：姓名，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名、收件日期<br>
 
-地址链接: [@XingDun_SGK](https://idouyin.io/41)
+地址链接: [@XingDun_SGK](https://t.me/ppsgk_bot)
 <br>
 
 
@@ -237,32 +211,32 @@
 
 同名查询、身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车 手机查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、同密码、外卖地址、家庭地址等等。
 
-社工地址: [@SOUGOUSGK_BOT](https://idouyin.io/41)；
+社工地址: [@SOUGOUSGK_BOT](https://t.me/ppsgk_bot)；
 
 
 ### 新世界社工库
 
-社工库地址： <a href="https://idouyin.io/41" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+社工库地址： <a href="https://t.me/ppsgk_bot" target="_blank">@Data888_bot</a>。使用详情： <a href="https://telegra.ph/%E5%B1%81%E5%B1%81%E4%BE%A6%E6%8E%A2%E7%A4%BE%E5%B7%A5%E5%BA%93%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-06-14" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 
 ### Toronto社工库
 
 
-社工库地址: <a href="https://idouyin.io/41" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.4spaces.org/4842.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+社工库地址: <a href="https://t.me/ppsgk_bot" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://telegra.ph/%E5%B1%81%E5%B1%81%E4%BE%A6%E6%8E%A2%E7%A4%BE%E5%B7%A5%E5%BA%93%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-06-14" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 
 ### Crime社工库
 
 号称拥有完整上海10亿，银联6.3亿，学习通1.2亿，地区全库，融合二要素11亿，抖音渗透数据，4399渗透数据。
 
-社工库地址: <a href="https://idouyin.io/41" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://www.4spaces.org/4890.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
+社工库地址: <a href="https://t.me/ppsgk_bot" target="_blank">@CrimeSGK</a>。使用详情：<a href="https://telegra.ph/%E5%B1%81%E5%B1%81%E4%BE%A6%E6%8E%A2%E7%A4%BE%E5%B7%A5%E5%BA%93%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-06-14" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Crime社工库</a>。
 
 
 ### 知世库
 
 支持QQ号查询、身份证号查询、猎魔查询、手机号查询、微博查询，使用时直接将对应查询内容发送过去即可。
 
-社工库地址: <a href="https://idouyin.io/41" target="_blank">@Zslibot</a>。
+社工库地址: <a href="https://t.me/ppsgk_bot" target="_blank">@Zslibot</a>。
 
 
 
@@ -273,7 +247,7 @@
 使用时直接发送手机号、QQ等信息查询即可。
 
 
-社工库地址: <a href="https://idouyin.io/41" target="_blank">@BOXsgkbot</a>。使用详情：<a href="https://www.4spaces.org/4942.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
+社工库地址: <a href="https://t.me/ppsgk_bot" target="_blank">@BOXsgkbot</a>。使用详情：<a href="https://telegra.ph/%E5%B1%81%E5%B1%81%E4%BE%A6%E6%8E%A2%E7%A4%BE%E5%B7%A5%E5%BA%93%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-06-14" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">免费社工库： 黑盒社工库，查机主、查快递、查开房、查Q绑，超准！</a>。
 
 
 ### FreeCAA社工库
@@ -301,41 +275,36 @@
 
 <img src="https://img.yomige.org/file/8c98f66ac5eb0a91f4a9f.jpg">
 
-社工库地址: <a href="https://idouyin.io/41" target="_blank">@FreeCAA_bot</a>。
+社工库地址: <a href="https://t.me/ppsgk_bot" target="_blank">@FreeCAA_bot</a>。
 
 ### 度娘社工库机器人
 
 
 好垃圾的一个社工库，太烂了，什么都查不出来，果然带百度的都是垃圾~
 
-社工库账号地址： <a href="https://idouyin.io/41" target="_blank">@baidusell_bot</a>。
+社工库账号地址： <a href="https://t.me/ppsgk_bot" target="_blank">@baidusell_bot</a>。
 
 
 ### 海燕系统-车辆查询系统
 
 车牌号查询社工库，直接发送车牌号即可。
 
-社工库账号地址： <a href="https://idouyin.io/41" target="_blank">@HYXT_bot</a>。
+社工库账号地址： <a href="https://t.me/ppsgk_bot" target="_blank">@HYXT_bot</a>。
 
 
 ### 滴滴社工库
 
 此社工库已跑路，目前这个账号应该又被人接手了，可根据手机号、身份证号、QQ 号、微博主页地址进行查询。查询出的信息非常少，关键它还好意思收费，免费的都比它这个查出的信息全~
 
-<img src="https://img.yomige.org/file/3ae007a9c351bab45039b.jpg">
 
-
-<img src="https://img.yomige.org/file/dcff33959d1fca592304f.jpg">
-
-
-社工库账号：  <a href="https://idouyin.io/41" target="_blank">@DiDiSGK_Bot</a>。 
+社工库账号：  <a href="https://t.me/ppsgk_bot" target="_blank">@DiDiSGK_Bot</a>。 
 
 ### X-ray社工库
 
 支持发送【姓名、电话或身份证】进行查询，返回的结果有学习通和支付宝，试了下，信息少但还算准确，支持签到获取积分，解锁结果需要使用积分。
 
 
-社工库账号：  <a href="https://idouyin.io/41" target="_blank">@Xraysgk_bot</a>。 
+社工库账号：  <a href="https://t.me/ppsgk_bot" target="_blank">@Xraysgk_bot</a>。 
 
 
 ### Botnet免费社工机器人
@@ -346,32 +315,32 @@
 
 <img src="https://img.yomige.org/file/b859e8db736df7fe18101.jpg">
 
-社工库账号地址： <a href="https://idouyin.io/41" target="_blank">@SGK_0001_bot</a>。 
+社工库账号地址： <a href="https://t.me/ppsgk_bot" target="_blank">@SGK_0001_bot</a>。 
 
 
 ### ingeek社工库-免费社工库平台
 
 可以查询QQ绑、银行卡、微博绑定、身份证等信息，银行卡信息真实性未校验，有人反映此社工库存在诈骗行为，注意避坑，需要的自己试一下吧：
 
-社工库地址： <a href="https://idouyin.io/41" target="_blank">@ingeeksgkbot</a>。 
+社工库地址： <a href="https://t.me/ppsgk_bot" target="_blank">@ingeeksgkbot</a>。 
 
 
 ### Hope机器人
 
 猎魔/机主/全国法人/地址猎魔/综合数据机器人，查询免费，解锁需要积分，数据还不错，可以结合前面分享的其他机器人一起使用：
 
-账号地址： <a href="https://idouyin.io/41" target="_blank">Hope社工库机器人</a>。 
+账号地址： <a href="https://t.me/ppsgk_bot" target="_blank">Hope社工库机器人</a>。 
 
 
 ### X-ray社工库
 
-新出社工库，数据质量挺高，可查微信，账号地址：<a href="https://idouyin.io/41" target="_blank">@Zonesgk_bot</a>。 
+新出社工库，数据质量挺高，可查微信，账号地址：<a href="https://t.me/ppsgk_bot" target="_blank">@Zonesgk_bot</a>。 
 
 ### 新中央社工库
 
 号称可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/LOL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、就职单位、银行开户、通讯录、匹配查完整手机号, 身份证号等联系方式相关信息。
 
-账号地址： <a href="https://idouyin.io/41" target="_blank">@zysgkbot</a>。 
+账号地址： <a href="https://t.me/ppsgk_bot" target="_blank">@zysgkbot</a>。 
 
 
 ### 订单机器人
@@ -380,20 +349,14 @@
 
 虽然列出的很长，但发送相同的查询条件返回的信息相对之前推荐过的社工库少的可怜，不同人的情况可能不同，自己可以试试：
 
-账号地址： <a href="https://www.shegongku.top/56.html" target="_blank">@DD880_BOT</a>。 
+账号地址： <a href="https://t.me/ppsgk_bot" target="_blank">@DD880_BOT</a>。 
 
 
 ### 275社工库
 
-社工库数据包含机主数据，猎魔数据，快递地址数据等，查询简单，直接发送相关查询条件即可。使用教程参考：[275社工库：隐私数据查询，新上山东2023新二要素](https://www.shegongku.top/59.html)。
+社工库数据包含机主数据，猎魔数据，快递地址数据等，查询简单，直接发送相关查询条件即可。使用教程参考：[275社工库：隐私数据查询，新上山东2023新二要素](https://t.me/ppsgk_bot)。
 
 ### 情报局社工库
 
-一个Telegram群组，直接在群里发送查询命令，群组会自动返回对应信息给你，这是一个公共群组，注意自己隐私，详情介绍：[情报局社工库: Telegram社工群组机器人](https://www.shegongku.top/60.html)。
+一个Telegram群组，直接在群里发送查询命令，群组会自动返回对应信息给你，这是一个公共群组，注意自己隐私，详情介绍：[情报局社工库: Telegram社工群组机器人](https://t.me/ppsgk_bot)。
 
-
-### 哈希社工库
-
-支持人脸识别、手机号查询、短信轰炸，详情介绍：[社工库分享：哈希社工库，人脸识别、手机号查询、短信轰炸](https://www.shegongku.top/61.html)。
-
-文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
