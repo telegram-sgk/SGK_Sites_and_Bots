@@ -244,13 +244,13 @@
 
 ### 新世界社工库
 
-社工库地址： <a href="https://idouyin.io/41" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+社工库地址： <a href="https://idouyin.io/41" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.shegongku.top/69.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 
 ### Toronto社工库
 
 
-社工库地址: <a href="https://idouyin.io/41" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.4spaces.org/4842.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+社工库地址: <a href="https://idouyin.io/41" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.shegongku.top/71.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: Toronto社工库，地址、户籍查询</a>。
 
 
 ### Crime社工库
