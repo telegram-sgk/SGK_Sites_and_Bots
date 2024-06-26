@@ -86,7 +86,7 @@
 
 🔍可查询：身份户籍、开房记录、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式。
 
-地址: [@Space_SGK](https://idouyin.io/41)
+地址: [@Space_SGK](https://idouyin.io/41) ，具体使用教程： <a href="https://www.shegongku.top/77.html" target="_blank">Space社工库机器人: 身份户籍/开房记录，隐私信息免费查询</a>。
 
 备注：每日签到可获取3次免费查询机会
 
@@ -232,8 +232,6 @@
 地址链接: [@XingDun_SGK](https://idouyin.io/41)
 <br>
 
-
-<br>
 
 ### 搜狗社工库
 
