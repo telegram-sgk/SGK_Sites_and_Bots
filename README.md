@@ -392,4 +392,12 @@
 
 支持人脸识别、手机号查询、短信轰炸，详情介绍：[社工库分享：哈希社工库，人脸识别、手机号查询、短信轰炸](https://www.shegongku.top/61.html)。
 
-文章来源： [https://www.shegongku.top/](https://www.shegongku.top/)。
+
+
+### XEPT社工库
+
+婚姻、户口查询，身份证照片查询，详情介绍：<a href="https://www.shegongku.top/79.html" target="_blank">社工库： XEPT社工库，婚姻、户口查询，身份证照片查询</a>。 
+
+
+
+更多社工库参见： [https://www.shegongku.top/](https://www.shegongku.top/)。
