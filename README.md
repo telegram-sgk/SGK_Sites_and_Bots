@@ -400,4 +400,11 @@
 
 
 
+### Seed社工库
+
+社工库更新，查手机，查快递，查户籍，我没测试，需要的自己测试吧：<a href="https://www.shegongku.top/86.html" target="_blank">Seed社工库： 手机机主、身份户籍、快递订单信息查询</a>。 
+
+
+
+
 更多社工库参见： [https://www.shegongku.top/](https://www.shegongku.top/)。
