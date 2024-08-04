@@ -29,7 +29,7 @@
 
 上线时间很久了，但是数据依旧很烂，摆烂社工库，充值后可能会查不出什么东西，可以做最后的尝试吧，试试其他免费社工库：
 
-地址： [明网社工库](https://txcdns.online/)。
+地址： [明网社工库](https://idouyin.io/41)。
 
 
 ## 二、Telegram 社工库机器人
@@ -321,11 +321,6 @@
 ### 滴滴社工库
 
 此社工库已跑路，目前这个账号应该又被人接手了，可根据手机号、身份证号、QQ 号、微博主页地址进行查询。查询出的信息非常少，关键它还好意思收费，免费的都比它这个查出的信息全~
-
-<img src="https://img.yomige.org/file/3ae007a9c351bab45039b.jpg">
-
-
-<img src="https://img.yomige.org/file/dcff33959d1fca592304f.jpg">
 
 
 社工库账号：  <a href="https://idouyin.io/41" target="_blank">@DiDiSGK_Bot</a>。 
